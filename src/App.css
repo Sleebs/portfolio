@@ -270,11 +270,11 @@ footer p {
 
   .presentation-description {
     left: 0%;
-    font-size: var(--text-small);
+    font-size: calc(var(--text-small) * 0.96);
   }
 
   .presentation-section h1 {
-    font-size: calc(var(--text-medium) * 3);
+    font-size: calc(var(--text-medium) * 2.8);
   }
 
   .presentation-card {

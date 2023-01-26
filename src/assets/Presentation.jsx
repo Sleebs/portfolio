@@ -42,7 +42,7 @@ export function Presentation(props) {
         </p>
         <h1 ref={presentationMiddleLine}>Samuele Raposo</h1>
         <p className='presentation-description' ref={presentationLastLine}>
-          Computer science and D&D entusiast from Milan, Italy
+          Computer science and D&D enthusiast from Milan, Italy
           <i className='material-symbols-outlined'>home_pin</i>
         </p>
       </div>
