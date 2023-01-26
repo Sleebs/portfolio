@@ -270,7 +270,7 @@ footer p {
 
   .presentation-description {
     left: 0%;
-    font-size: calc(var(--text-small) * 0.96);
+    font-size: calc(var(--text-small) * 0.9);
   }
 
   .presentation-section h1 {
